@@ -1,94 +1,131 @@
-[
-  {
+[{
+  "id": 1,
+  "firstName": "Tamqrah",
+  "lastName": "Elgey",
+  "email": "telgey0@webeden.co.uk",
+  "Department": {
     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771",
-      "geo": {
-        "lat": "-43.9509",
-        "lng": "-34.4618"
-      }
-    },
-    "phone": "010-692-6593 x09125",
-    "website": "anastasia.net",
-    "company": {
-      "name": "Deckow-Crist",
-      "catchPhrase": "Proactive didactic contingency",
-      "bs": "synergize scalable supply-chains"
-    }
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
-    "address": {
-      "street": "Douglas Extension",
-      "suite": "Suite 847",
-      "city": "McKenziehaven",
-      "zipcode": "59590-4157",
-      "geo": {
-        "lat": "-68.6102",
-        "lng": "-47.0653"
-      }
-    },
-    "phone": "1-463-123-4447",
-    "website": "ramiro.info",
-    "company": {
-      "name": "Romaguera-Jacobson",
-      "catchPhrase": "Face to face bifurcated interface",
-      "bs": "e-enable strategic applications"
-    }
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "username": "Karianne",
-    "email": "Julianne.OConner@kory.org",
-    "address": {
-      "street": "Hoeger Mall",
-      "suite": "Apt. 692",
-      "city": "South Elvis",
-      "zipcode": "53919-4257",
-      "geo": {
-        "lat": "29.4572",
-        "lng": "-164.2990"
-      }
-    },
-    "phone": "493-170-9623 x156",
-    "website": "kale.biz",
-    "company": {
-      "name": "Robel-Corkery",
-      "catchPhrase": "Multi-tiered zero tolerance productivity",
-      "bs": "transition cutting-edge web services"
+    "name": "Research and Development",
+    "Faculty": {
+      "id": 1,
+      "name": "Movies"
     }
   }
-]
+}, {
+  "id": 2,
+  "firstName": "Karlis",
+  "lastName": "Latta",
+  "email": "klatta1@mediafire.com",
+  "Department": {
+    "id": 2,
+    "name": "Accounting",
+    "Faculty": {
+      "id": 2,
+      "name": "Kids"
+    }
+  }
+}, {
+  "id": 3,
+  "firstName": "Cecilio",
+  "lastName": "Boise",
+  "email": "cboise2@senate.gov",
+  "Department": {
+    "id": 3,
+    "name": "Human Resources",
+    "Faculty": {
+      "id": 3,
+      "name": "Baby"
+    }
+  }
+}, {
+  "id": 4,
+  "firstName": "Leoine",
+  "lastName": "O'Leagham",
+  "email": "loleagham3@patch.com",
+  "Department": {
+    "id": 4,
+    "name": "Business Development",
+    "Faculty": {
+      "id": 4,
+      "name": "Garden"
+    }
+  }
+}, {
+  "id": 5,
+  "firstName": "Elmore",
+  "lastName": "Pitkin",
+  "email": "epitkin4@addtoany.com",
+  "Department": {
+    "id": 5,
+    "name": "Business Development",
+    "Faculty": {
+      "id": 5,
+      "name": "Music"
+    }
+  }
+}, {
+  "id": 6,
+  "firstName": "Cointon",
+  "lastName": "Akess",
+  "email": "cakess5@columbia.edu",
+  "Department": {
+    "id": 6,
+    "name": "Engineering",
+    "Faculty": {
+      "id": 6,
+      "name": "Tools"
+    }
+  }
+}, {
+  "id": 7,
+  "firstName": "Tony",
+  "lastName": "Vaughton",
+  "email": "tvaughton6@dailymail.co.uk",
+  "Department": {
+    "id": 7,
+    "name": "Legal",
+    "Faculty": {
+      "id": 7,
+      "name": "Games"
+    }
+  }
+}, {
+  "id": 8,
+  "firstName": "Dorise",
+  "lastName": "Tomik",
+  "email": "dtomik7@4shared.com",
+  "Department": {
+    "id": 8,
+    "name": "Marketing",
+    "Faculty": {
+      "id": 8,
+      "name": "Health"
+    }
+  }
+}, {
+  "id": 9,
+  "firstName": "Saleem",
+  "lastName": "Balsdon",
+  "email": "sbalsdon8@toplist.cz",
+  "Department": {
+    "id": 9,
+    "name": "Product Management",
+    "Faculty": {
+      "id": 9,
+      "name": "Sports"
+    }
+  }
+}, {
+  "id": 10,
+  "firstName": "Juditha",
+  "lastName": "Haliburton",
+  "email": "jhaliburton9@soup.io",
+  "Department": {
+    "id": 10,
+    "name": "Product Management",
+    "Faculty": {
+      "id": 10,
+      "name": "Outdoors"
+    }
+  }
+}]
